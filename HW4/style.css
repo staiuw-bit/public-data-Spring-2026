@@ -1,0 +1,43 @@
+body {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 16px;
+  padding: 1em;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.25em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+/* 
+This is a space where I do changes to teh font-size, color, and style 
+*/
+.intro{
+  font-size: 20px;
+  color: red;
+}
+#newcolor {
+  color: rgb(10, 136, 159);
+  font-size: 15px;
+  font-family: "Georgia";
+  font-style: italic;
+  text-align: center;
+}
+
+/* there is still a lot that I can learn from CSS and HTML. Let us explore together!:)
+*/
+
+h4 {
+  font-size: 1.5em;
+  margin: 0.25em 0;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+  color: rgb(0, 119, 255);
+}
