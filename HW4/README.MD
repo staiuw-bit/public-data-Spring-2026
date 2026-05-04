@@ -2,4 +2,4 @@
 
 Below you will find a screenshot of my final webpage!
 Enjoy~~
-![alt text](<PIc for HW4.jpg>)
+![alt text](PicHW4.jpg)
