@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.axis path,
+.axis line {
+    stroke: black;
+}
+
+.max-line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2;
+}
+
+.min-line {
+    fill: none;
+    stroke: crimson;
+    stroke-width: 2;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
