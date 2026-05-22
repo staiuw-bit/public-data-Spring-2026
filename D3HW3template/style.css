@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+h1{
+    margin-top: 20px;
+}
+
+svg{
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
+
+.axis path,
+.axis line{
+    stroke: black;
+}
+
+.line{
+    fill: none;
+    stroke-width: 3;
+    stroke: steelblue;
+}
+
+.buttons{
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    background-color: steelblue;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: darkblue;
+}
